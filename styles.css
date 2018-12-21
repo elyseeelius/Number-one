@@ -10,6 +10,7 @@ body {
   font-family: 'Roboto', sans-serif;
   color: #000;
   background: #3483A4;
+  border-bottom: 50px solid #ff9904 
 }
 
 /* Link Styles */
@@ -83,7 +84,7 @@ header .profile-image {
   border-radius: 50%;
   transition: all .5s;
   border-top: solid 10px#ff9904;
-  border-bottom: solid 10px#ff9904;
+  border-bottom: solid 10px #ff9904;
 }
 
 header .profile-image:hover {

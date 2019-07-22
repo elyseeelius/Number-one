@@ -62,7 +62,7 @@ a:hover {
 .nav a:hover {
   color: white
 }
-
+/* 
 header {
   text-align: center;
   background: url('bgimage.jpg') no-repeat bottom center;
@@ -70,7 +70,7 @@ header {
   overflow: hidden;
   padding-top: 60px;
   border-bottom: 50px solid #ff9904;
-}
+} */
 
 header {
   line-height: 1.5;
